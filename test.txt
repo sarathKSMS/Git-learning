@@ -1,1 +1,2 @@
-this is git learning session
+this is git learning session.
+Successfully added the first page in git.
