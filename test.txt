@@ -1,2 +1,4 @@
 this is git learning session.
 Successfully added the first page in git.
+push demo done ✅
+Pull demo done ✅
